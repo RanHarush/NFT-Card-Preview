@@ -30,7 +30,7 @@ section {
 
 .nft-image:hover {
   cursor: pointer;
-  background: url("./images/icon-view.svg") no-repeat, hsl(178, 100%, 50%);
+  background: url("/images/icon-view.svg") no-repeat, hsl(178, 100%, 50%);
   background-position: center;
   border-radius: 5px;
 }
